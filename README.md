@@ -7,6 +7,6 @@ I set the default to be seed=7777 and Nday=356
 
 2. Run `poisson_data.py'. this will write to two text files with names `poisson_arr.txt` and `poisson_pmf.txt`. In case you want to change the sample size, you will need to change from inside the python file. I set the default seed= 2222, size=123 Null_rate=122
 
-3. Run `poisson_analysis.py`. This will plot and save `plot2.pdf` that show poisson pmf and the confidence interval of 90% and 95%. Also will print p-value and make decision about the null hypothesis. 
+3. Run `poisson_analysis.py`. This will plot and save `poisson.png` that show poisson pmf and the confidence interval of 90% and 95%. Also will print p-value and make decision about the null hypothesis. 
 
 
